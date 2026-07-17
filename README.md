@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghayurcodes&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghayurcodes&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://img.shields.io/github/followers/ghayurcodes?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/ghayurcodes?style=for-the-badge&color=yellow" />
 </p>
 
 ---
