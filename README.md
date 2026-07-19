@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Syed Ghayur Hussain</h1>
-  <p>CS undergrad</p>
+  <p>CS undergrad😎</p>
   <!-- Socials -->
   <p>
     <a href="https://github.com/ghayurcodes"><img src="https://img.shields.io/badge/GitHub-@ghayurcodes-181717?style=for-the-badge&logo=github" /></a>
