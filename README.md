@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1694F,100:8A9B6E&height=220&section=header&text=Syed%20Ghayur%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Flutter%20%26%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1694F,100:8A9B6E&height=220&section=header&text=Syed%20Ghayur%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C1694F&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Building+with+Flutter+%2B+AI+%F0%9F%A7%A0;Turning+ML+models+into+real+apps;Currently+building+MetaMAPP%2B+%F0%9F%A9%BA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C1694F&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Software+Engineer;Comfortable+across+the+stack;Mobile+%7C+Web+%7C+AI%2FML" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Final-year CS undergrad building cross-platform apps with **Flutter**, and layering in **AI/ML** where it adds real value.
+Final-year CS undergrad who works across the stack — mobile, web, backend, and AI/ML — and picks whatever tools fit the problem.
 
 <br/>
 
@@ -75,7 +75,7 @@ Final-year CS undergrad building cross-platform apps with **Flutter**, and layer
 
 </div>
 
-> ✏️ *Swap `REPO_NAME_HERE` for your actual repo slugs (e.g. `metamapp-plus`) once you're ready to pin them — the pin cards pull live stars/forks/language automatically.*
+> ✏️ *Swap `REPO_NAME_HERE` for your actual repo slugs once you're ready to pin them — the pin cards pull live stars/forks/language automatically.*
 
 <br/>
 
@@ -92,23 +92,11 @@ Final-year CS undergrad building cross-platform apps with **Flutter**, and layer
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ghayurcodes/ghayurcodes/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-> ⚙️ **Setup needed:** the snake animation above only renders once you add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named `ghayurcodes/ghayurcodes` (your special profile repo). It generates that SVG automatically on a schedule — happy to walk you through the workflow file if you want it wired up.
-
-<br/>
-
 <div align="center">
 
 ### 💬 Let's Connect
 
-If you're into Flutter, AI-powered apps, or just want to talk about why Gradle builds hate you personally — my inbox is open.
+Open to collaborating on interesting projects — reach out.
 
 ⭐ **Star a repo, drop a follow, let's build something.**
 
