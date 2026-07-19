@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1694F,100:8A9B6E&height=220&section=header&text=Syed%20Ghayur%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C1694F&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Software+Engineer;Comfortable+across+the+stack;Mobile+%7C+Web+%7C+AI%2FML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C1694F&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Software+Engineer;Comfortable+across+the+stack;Mobile+%7C+Web+%7C+AI+%2F+ML" alt="Typing SVG" />
 
 <br/>
 
@@ -60,33 +60,14 @@ Final-year CS undergrad who works across the stack — mobile, web, backend, and
 
 <br/>
 
-## 🚀 Featured Projects
-
-<!-- TODO: replace with your real pinned/featured projects -->
-<div align="center">
-
-<a href="https://github.com/ghayurcodes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghayurcodes&repo=REPO_NAME_HERE&theme=transparent&title_color=C1694F&text_color=333333&icon_color=8A9B6E&border_color=8A9B6E" />
-</a>
-
-<a href="https://github.com/ghayurcodes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghayurcodes&repo=paisasplit&theme=transparent&title_color=C1694F&text_color=333333&icon_color=8A9B6E&border_color=8A9B6E" />
-</a>
-
-</div>
-
-> ✏️ *Swap `REPO_NAME_HERE` for your actual repo slugs once you're ready to pin them — the pin cards pull live stars/forks/language automatically.*
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghayurcodes&show_icons=true&theme=transparent&title_color=C1694F&text_color=333333&icon_color=8A9B6E&border_color=8A9B6E&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghayurcodes&theme=default&background=FFFFFF00&stroke=8A9B6E&ring=C1694F&fire=C1694F&currStreakLabel=C1694F" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ghayurcodes&show_icons=true&theme=transparent&title_color=C1694F&text_color=E8E1D8&icon_color=8A9B6E&border_color=8A9B6E&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghayurcodes&background=00000000&border=00000000&stroke=8A9B6E&ring=C1694F&fire=C1694F&currStreakLabel=C1694F&currStreakNum=E8E1D8&sideNums=E8E1D8&sideLabels=E8E1D8&dates=8A9B6E" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghayurcodes&layout=compact&theme=transparent&title_color=C1694F&text_color=333333&border_color=8A9B6E" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghayurcodes&layout=compact&theme=transparent&title_color=C1694F&text_color=E8E1D8&border_color=8A9B6E" width="40%" />
 
 </div>
 
